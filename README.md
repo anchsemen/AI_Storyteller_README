@@ -6,8 +6,10 @@
 Далее можно посмотреть на будущий дизайн приложения:
 
 Главная страница:
+
 <img src=design_AI_Storyteller_mainpage.jpg>
 
 Конец истории:
+
 <img src=design_AI_Storyteller_endstorypage.jpg>
 
